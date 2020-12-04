@@ -4,3 +4,5 @@ This is a JetBrains Academy project which contains various matrix operations inc
 - Topics practised: Matrices, Math library, Nested lists, Recursion
 
 - Technologies used: Python
+
+![demo](numericMatrixCalcDemo.gif)
